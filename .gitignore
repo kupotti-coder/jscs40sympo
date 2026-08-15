@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# 秘密（万一この階層に置いてしまっても上げないための保険）
+.Renviron
+*.key
+*.env
